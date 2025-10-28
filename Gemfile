@@ -64,7 +64,7 @@ end
 
 gem "tailwindcss", "~> 0.1.1"
 
-gem "tailwindcss-rails", "~> 4.2"
+gem "tailwindcss-rails", "~> 4.4"
 
 gem 'devise'
 gem 'pundit'
